@@ -1,0 +1,150 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "a-few-life-updates/:path?",
+      "destination": "https://v1.krycho.com/a-few-life-updates/:path",
+      "permanent": true
+    },
+    {
+      "source": "a-kate-ism/:path?",
+      "destination": "https://v1.krycho.com/a-kate-ism/:path",
+      "permanent": true
+    },
+    {
+      "source": "a-regular-work-week/:path?",
+      "destination": "https://v1.krycho.com/a-regular-work-week/:path",
+      "permanent": true
+    },
+    {
+      "source": "about/:path?",
+      "destination": "https://v1.krycho.com/about/:path",
+      "permanent": true
+    },
+    {
+      "source": "assets/:path?",
+      "destination": "https://v1.krycho.com/assets/:path",
+      "permanent": true
+    },
+    {
+      "source": "author/:path?",
+      "destination": "https://v1.krycho.com/author/:path",
+      "permanent": true
+    },
+    {
+      "source": "content/:path?",
+      "destination": "https://v1.krycho.com/content/:path",
+      "permanent": true
+    },
+    {
+      "source": "daddy-daughter-discipleship-time/:path?",
+      "destination": "https://v1.krycho.com/daddy-daughter-discipleship-time/:path",
+      "permanent": true
+    },
+    {
+      "source": "homeschool-happenings/:path?",
+      "destination": "https://v1.krycho.com/homeschool-happenings/:path",
+      "permanent": true
+    },
+    {
+      "source": "how-i-feel-about-pencil-skirts/:path?",
+      "destination": "https://v1.krycho.com/how-i-feel-about-pencil-skirts/:path",
+      "permanent": true
+    },
+    {
+      "source": "humidity/:path?",
+      "destination": "https://v1.krycho.com/humidity/:path",
+      "permanent": true
+    },
+    {
+      "source": "indelible-marks/:path?",
+      "destination": "https://v1.krycho.com/indelible-marks/:path",
+      "permanent": true
+    },
+    {
+      "source": "jaimie-opening-with-a-flourish/:path?",
+      "destination": "https://v1.krycho.com/jaimie-opening-with-a-flourish/:path",
+      "permanent": true
+    },
+    {
+      "source": "life-right-now/:path?",
+      "destination": "https://v1.krycho.com/life-right-now/:path",
+      "permanent": true
+    },
+    {
+      "source": "long-time-no-post/:path?",
+      "destination": "https://v1.krycho.com/long-time-no-post/:path",
+      "permanent": true
+    },
+    {
+      "source": "my-kind-of-homeschool/:path?",
+      "destination": "https://v1.krycho.com/my-kind-of-homeschool/:path",
+      "permanent": true
+    },
+    {
+      "source": "on-decompression/:path?",
+      "destination": "https://v1.krycho.com/on-decompression/:path",
+      "permanent": true
+    },
+    {
+      "source": "page/:path?",
+      "destination": "https://v1.krycho.com/page/:path",
+      "permanent": true
+    },
+    {
+      "source": "public/:path?",
+      "destination": "https://v1.krycho.com/public/:path",
+      "permanent": true
+    },
+    {
+      "source": "rss/:path?",
+      "destination": "https://v1.krycho.com/rss/:path",
+      "permanent": true
+    },
+    {
+      "source": "school-age-kids-silmarils-and-everything-in-between/:path?",
+      "destination": "https://v1.krycho.com/school-age-kids-silmarils-and-everything-in-between/:path",
+      "permanent": true
+    },
+    {
+      "source": "somehow-2020-is-almost-over/:path?",
+      "destination": "https://v1.krycho.com/somehow-2020-is-almost-over/:path",
+      "permanent": true
+    },
+    {
+      "source": "static/:path?",
+      "destination": "https://v1.krycho.com/static/:path",
+      "permanent": true
+    },
+    {
+      "source": "tag/:path?",
+      "destination": "https://v1.krycho.com/tag/:path",
+      "permanent": true
+    },
+    {
+      "source": "that-moment-i-dropped-them-off/:path?",
+      "destination": "https://v1.krycho.com/that-moment-i-dropped-them-off/:path",
+      "permanent": true
+    },
+    {
+      "source": "the-adjustment/:path?",
+      "destination": "https://v1.krycho.com/the-adjustment/:path",
+      "permanent": true
+    },
+    {
+      "source": "wanna-get-away/:path?",
+      "destination": "https://v1.krycho.com/wanna-get-away/:path",
+      "permanent": true
+    },
+    {
+      "source": "were-in/:path?",
+      "destination": "https://v1.krycho.com/were-in/:path",
+      "permanent": true
+    },
+    {
+      "source": "wives-fight-for-your-husband/:path?",
+      "destination": "https://v1.krycho.com/wives-fight-for-your-husband/:path",
+      "permanent": true
+    }
+  ]
+}
