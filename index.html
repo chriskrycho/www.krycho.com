@@ -79,14 +79,15 @@
         align-items: center;
       }
 
-      a:any-link,
-      a:visited {
+      a:any-link {
         color: var(--link);
         transition: all 0.1s ease-out;
+        text-decoration: none;
       }
 
-      dd a:any-link {
-        text-decoration: none;
+      a:any-link span:not([role="presentation"]) {
+        text-decoration: underline;
+        font-style: italic;
       }
 
       a:any-link:hover {
@@ -114,13 +115,18 @@
   </head>
   <body>
     <dl>
-      <dt><a href="https://www.jaimiekrycho.com">Jaimie Krycho</a></dt>
-      <dd>actor, author, artist. <a href="https://www.jaimiekrycho.com">⟾</a></dd>
-      <dt><a href="https://www.chriskrycho.com">Chris Krycho</a></dt>
-      <dd>
-        software engineer, writer, composer.
-        <a href="https://www.chriskrycho.com">⟾</a>
-      </dd>
+      <dt>
+        <a href="https://www.jaimiekrycho.com"
+          ><span>Jaimie Krycho</span> <span role="presentation">⟾</span></a
+        >
+      </dt>
+      <dd>actor, author, artist.</dd>
+      <dt>
+        <a href="https://www.chriskrycho.com"
+          ><span>Chris Krycho</span> <span role="presentation">⟾</span></a
+        >
+      </dt>
+      <dd>software engineer, writer, composer.</dd>
     </dl>
   </body>
 </html>
